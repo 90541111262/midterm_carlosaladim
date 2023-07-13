@@ -145,9 +145,10 @@ body {
   
 
 
-  @media screen and (max-width: 768px)
+ 
     
     article img {
+      @media screen and (max-width: 768px)
       float: none;
       margin-right: 0;
       margin-bottom: 100px;
