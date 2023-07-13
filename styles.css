@@ -150,7 +150,7 @@ body {
     article img {
       @media screen and (max-width: 768px)
       float: none;
-      margin-right: 0;
+      margin-right: 50;
       margin-bottom: 100px;
     }
 
