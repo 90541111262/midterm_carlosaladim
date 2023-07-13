@@ -1,2 +1,3 @@
 # midterm_carlosaladim
-MidtermAlgonquin
+MidtermAlgonquin.
+Project for Wev Development class.
